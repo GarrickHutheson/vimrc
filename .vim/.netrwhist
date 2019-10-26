@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/garrick'
+let g:netrw_dirhist_2='/home/garrick/repos'
+let g:netrw_dirhist_3='/home/garrick/repos/PMUSIM2'
+let g:netrw_dirhist_4='/home/garrick/repos/PMUSIM2/cppapi'
+let g:netrw_dirhist_5='/home/garrick/repos/PMUSIM2'
+let g:netrw_dirhist_6='/home/garrick/repos/455/ethernet_packet_senderv2'
+let g:netrw_dirhist_7='/home/garrick/repos/Lab5'
