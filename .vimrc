@@ -5,7 +5,6 @@ set expandtab
 set tabstop=8
 set softtabstop=2
 set shiftwidth=2
-set guioptions-=T
 
 " OPTIONAL: Starting with Vim 7, the filetype of empty .tex files defaults to
 " 'plaintex' instead of 'tex', which results in vim-latex not being loaded.
