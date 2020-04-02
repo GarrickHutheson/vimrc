@@ -16,4 +16,4 @@ mkdir ~/ycm_build
 cmake -G "Unix Make" ~/ycm_build/ ~/.vim/bundle/YouCompleteMe/third_party/ycmd/cpp
 
 cd ~/.vim/bundle/YouCompleteMe 
-python3 install.py --clang-completer
+python3 install.py --clangd-completer
